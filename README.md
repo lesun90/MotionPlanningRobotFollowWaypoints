@@ -1,6 +1,6 @@
 # MotionPlanningRobotFollowWaypoints
 Motion Planner algorithm for car robot to reach a set of waypoints.
-Inline-style:
+
 ![alt text](Pics/example.png)
 
 ## How to use
