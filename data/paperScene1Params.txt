@@ -1,0 +1,10 @@
+SceneObstaclesFile data/paperScene1.txt
+GoalFile data/paperScene1Goal.txt
+
+RobotStartX 7
+RobotStartY -37
+
+QueryFile data/paperScene1Queries.txt
+QueryIndex 20
+
+ParamsExtraFile data/GeneralParams.txt
