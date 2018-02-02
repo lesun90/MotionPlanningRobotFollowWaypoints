@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <cstdio>
-
+#include <cmath>
 namespace GP
 {
     void TriangulatePolygonWithHoles2D(const bool   useConformingDelaunay,
